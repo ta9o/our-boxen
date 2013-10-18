@@ -1,4 +1,4 @@
-class people::Takuo-IMBE {
+class people::cyberagent {
     include projects::all
     include chrome # customized
     include keyremap4macbook
